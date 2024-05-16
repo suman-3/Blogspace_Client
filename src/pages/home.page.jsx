@@ -18,10 +18,10 @@ const HomePage = () => {
 
   let categories = [
     "programming",
-    "hollywood",
+    // "hollywood",
     "science",
     "social media",
-    "cooking",
+    // "cooking",
     "tech",
     "sports",
     "finance",
